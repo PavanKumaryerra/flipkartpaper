@@ -1,0 +1,146 @@
+
+.one{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    font-weight: 100;
+}
+.one button{
+    padding: 15px 22px;
+    background-color: #FFCD00;
+    border: none;
+}
+.two{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.three{
+    color: #027CD5;
+}
+.four{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+}
+.seven{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    display: flex;
+    padding-left: 400px;
+}
+.seven p{
+    color: rgb(76, 83, 83);
+}
+.seven h1{
+    color: #000;
+}
+.six{
+    display: flex;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-left: 90px;
+    background-color: #F5FBFF;
+}
+.six p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    color: #555151;
+    padding-left: 50px;
+}
+.six h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    color: #313030;
+    padding-left: 50px;
+}
+.six img{
+    border-radius: 50%;
+}
+.head{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    padding-left: 100px;
+}
+.head:hover{
+color: #027CD5;
+}
+.eight{
+    padding-left: 30px;
+}
+.nine{
+    display: flex;   
+    padding-left: 330px; 
+}
+.nine p{
+    padding-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size:14px;
+}
+.nine img{
+    padding-left: 60px;
+}
+.ten{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 400px;
+
+}
+.ten p{
+    color: #3e3b3b;
+}
+.ten h3{
+    font-weight: 600;
+}
+.pavan{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+    color: #3e3b3b;
+    padding: 25px;
+    padding-left: 400px;
+}
+.sai {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #505152;
+    justify-content: space-around;
+    padding-left: 50px;
+    margin-left: 230px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    padding-left: 400px;
+}
+.pavan1 h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+.pavan1 p{
+     font-family: Arial, Helvetica, sans-serif;
+}
+.pavan1{
+    display: flex;
+    padding-left: 380px;
+    background-color: #F2FAFF;
+}
+.pavan1 img{
+    padding-left: 60px;
+}
+.pavan2{
+    padding-left: 400px;
+    font-weight: 200;
+    color: #646363;
+    background-color: #F2FAFF;
+}
+.pavan3{
+    display: flex;
+}
